@@ -1,0 +1,4 @@
+C:\Users\df780\source\repos\novo-validador-cam\obj\Debug\CAM.csproj.AssemblyReference.cache
+C:\Users\df780\source\repos\novo-validador-cam\obj\Debug\CAM.csproj.SuggestedBindingRedirects.cache
+C:\Users\df780\source\repos\novo-validador-cam\obj\Debug\CAM.Form1.resources
+C:\Users\df780\source\repos\novo-validador-cam\obj\Debug\CAM.csproj.GenerateResource.cache
